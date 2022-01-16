@@ -1,4 +1,4 @@
-### Hey there 👋 visitor number ! I am Sneham Nayyar
+### Hey there 👋 visitor number ! I am Sneham Nayyar.
 
 
 - 🔰  I am a CSE student at SRM Institute of Science and Technology, Chennai.
