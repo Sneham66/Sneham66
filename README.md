@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there 👋, I am Sneham Nayyar</h1>
 
 - **I am a CSE student at SRM Institute of Science and Technology, Chennai.**
-- **
+- **Proficient in C , C++ , SQL , Python.**
 
 
 
@@ -28,7 +28,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img alt="C++"  src="https://img.shields.io/badge/++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  
+<img alt="SQL" src="https://img.shields.io/badge/SQL-FFD43B?style=for-the-badge&logo=SQL&logoColor=darkgreen" />  
  
 
 ### Database
