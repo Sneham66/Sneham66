@@ -1,16 +1,17 @@
 <h1 align="center"> Hey there 👋, I am Sneham Nayyar</h1>
 
 - **I am a CSE student at SRM Institute of Science and Technology, Chennai.**
+- **
 
 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+ML+Geek%2C;Love+To+Fool+Around+with+Models%2C;Crazy+ComputerVision+Enthusiast.">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Computer+Geek%2C;Love+To+Fool+Around+with+Codes.;">
   </a>
 </h1>
 
-- 👯 Looking to collaborate on ML, DL, Data Science or Data Analytics Projects.
+- 🔰 I'm currently learning ML,Web Development,AI
 - ⚡ Fun fact: MCU Fan 
 - 📫 How to reach me: <br>
 
@@ -25,7 +26,8 @@
 ### Languages
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++"  src="https://img.shields.io/badge/++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   
  
 
